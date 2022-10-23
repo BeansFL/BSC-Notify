@@ -1,15 +1,15 @@
-## BSC-Notify
+# BSC-Notify
 A simple notification script made for you guys for free with a notify sound -- ESX Those files are protected by fivems escrow and obfuscated!
 
 
-# Clientsided
+## Clientsided
 
 ```lua
 exports['BscNotify']:showNotify("Title", "Message", Time, 'type')
 ```
 
 
-# Serversided
+## Serversided
 
 
 ```lua
@@ -17,7 +17,7 @@ TriggerClientEvent('BscNotify:showNotify', source, "Title", "Message", Time, 'ty
 ```
 
 
-# Types:
+## Types:
 
 
 --success
@@ -33,7 +33,7 @@ TriggerClientEvent('BscNotify:showNotify', source, "Title", "Message", Time, 'ty
 -- twitter
 
 
-# like :
+## like :
 
 ```lua
 
