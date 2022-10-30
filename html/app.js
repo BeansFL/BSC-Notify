@@ -1,2 +1,144 @@
-function _0x4a47(_0x36e09f,_0xd4412f){var _0x24f793=_0x24f7();return _0x4a47=function(_0x4a4742,_0x3f6f4b){_0x4a4742=_0x4a4742-0x113;var _0x2ea7e0=_0x24f793[_0x4a4742];return _0x2ea7e0;},_0x4a47(_0x36e09f,_0xd4412f);}function _0x24f7(){var _0x2a6fa5=['police','error\x20error_border','.main_notification-','main','remove','600','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','100557QQglrn','css','285px','type','152zDDtJv','error','add\x20add_border','1691400QFWAUi','twitter\x20twitter_border','sound.mp3','warning\x20warning_border','mechanic','0\x200\x208px\x20-170px','normal','normal\x20normal_border','\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22text-','volume','add_icon','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22wrapper-','mechanic\x20mechanic_border','error_icon','title','append','.title-','25px','twitter','30px','7IYKyRf','floor','police_icon','245mvYYEE','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22main_notification-','play','14px','warning_icon','addClass','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','action','info_icon','info','2779733HcBGOA','451122FvJWsr','addEventListener','827828gFabJB','success\x20success_border','.wrapper-','html','server\x20server_border','success_icon','mechanic_icon','data','message','16px','10px','541024NKrlqf','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22title-','11212XBqDuA','police\x20police_border','server','3aCFPQI','normal_icon','add'];_0x24f7=function(){return _0x2a6fa5;};return _0x24f7();}(function(_0x2a0b54,_0x427892){var _0x177864=_0x4a47,_0x4fc993=_0x2a0b54();while(!![]){try{var _0x21a089=-parseInt(_0x177864(0x12b))/0x1+parseInt(_0x177864(0x120))/0x2*(parseInt(_0x177864(0x130))/0x3)+parseInt(_0x177864(0x12d))/0x4*(-parseInt(_0x177864(0x113))/0x5)+parseInt(_0x177864(0x11e))/0x6*(-parseInt(_0x177864(0x155))/0x7)+parseInt(_0x177864(0x13e))/0x8*(parseInt(_0x177864(0x13a))/0x9)+parseInt(_0x177864(0x141))/0xa+parseInt(_0x177864(0x11d))/0xb;if(_0x21a089===_0x427892)break;else _0x4fc993['push'](_0x4fc993['shift']());}catch(_0x42ca59){_0x4fc993['push'](_0x4fc993['shift']());}}}(_0x24f7,0x47e56),$(function(){var _0x55488f=_0x4a47,_0x212ee5=new Audio(_0x55488f(0x143));_0x212ee5[_0x55488f(0x14a)]=0.1,window[_0x55488f(0x11f)](_0x55488f(0x128),function(_0x1a6c26){var _0x116acb=_0x55488f;if(_0x1a6c26['data'][_0x116acb(0x11a)]=='open'){var _0x1cb2c5=Math[_0x116acb(0x156)](Math['random']()*0x3e8+0x1);$('.bsc')[_0x116acb(0x150)](_0x116acb(0x14c)+_0x1cb2c5+_0x116acb(0x114)+_0x1cb2c5+_0x116acb(0x12c)+_0x1cb2c5+_0x116acb(0x149)+_0x1cb2c5+_0x116acb(0x139)+_0x1a6c26['data'][_0x116acb(0x128)]+_0x116acb(0x119)),$('.wrapper-'+_0x1cb2c5)[_0x116acb(0x13b)]({'margin-bottom':_0x116acb(0x12a),'width':_0x116acb(0x13c),'margin':_0x116acb(0x146),'border-radius':_0x116acb(0x154)}),$(_0x116acb(0x135)+_0x1cb2c5)['addClass'](_0x116acb(0x136)),$('.text-'+_0x1cb2c5)[_0x116acb(0x13b)]({'font-size':_0x116acb(0x116)});if(_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x13d)]=='success')$(_0x116acb(0x151)+_0x1cb2c5)['html'](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x152),'font-weight':_0x116acb(0x138)}),$(_0x116acb(0x135)+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x125)),$(_0x116acb(0x122)+_0x1cb2c5)['addClass'](_0x116acb(0x121)),_0x212ee5[_0x116acb(0x115)]();else{if(_0x1a6c26['data'][_0x116acb(0x13d)]==_0x116acb(0x147))$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)]['title'])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':'600'}),$(_0x116acb(0x135)+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x131)),$('.wrapper-'+_0x1cb2c5)['addClass'](_0x116acb(0x148)),_0x212ee5['play']();else{if(_0x1a6c26[_0x116acb(0x127)]['type']==_0x116acb(0x153))$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':'600'}),$(_0x116acb(0x135)+_0x1cb2c5)['addClass']('twitter_icon'),$(_0x116acb(0x122)+_0x1cb2c5)['addClass'](_0x116acb(0x142)),_0x212ee5[_0x116acb(0x115)]();else{if(_0x1a6c26['data'][_0x116acb(0x13d)]==_0x116acb(0x132))$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':_0x116acb(0x138)}),$(_0x116acb(0x135)+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x14b)),$(_0x116acb(0x122)+_0x1cb2c5)['addClass'](_0x116acb(0x140)),_0x212ee5[_0x116acb(0x115)]();else{if(_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x13d)]==_0x116acb(0x12f))$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':_0x116acb(0x138)}),$(_0x116acb(0x135)+_0x1cb2c5)[_0x116acb(0x118)]('server_icon'),$(_0x116acb(0x122)+_0x1cb2c5)['addClass'](_0x116acb(0x124)),_0x212ee5[_0x116acb(0x115)]();else{if(_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x13d)]==_0x116acb(0x145))$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':_0x116acb(0x138)}),$('.main_notification-'+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x126)),$(_0x116acb(0x122)+_0x1cb2c5)['addClass'](_0x116acb(0x14d)),_0x212ee5[_0x116acb(0x115)]();else{if(_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x13d)]=='warning')$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':'600'}),$(_0x116acb(0x135)+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x117)),$(_0x116acb(0x122)+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x144)),_0x212ee5[_0x116acb(0x115)]();else{if(_0x1a6c26['data'][_0x116acb(0x13d)]==_0x116acb(0x11c))$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26['data'][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':_0x116acb(0x138)}),$(_0x116acb(0x135)+_0x1cb2c5)['addClass'](_0x116acb(0x11b)),$(_0x116acb(0x122)+_0x1cb2c5)[_0x116acb(0x118)]('info\x20info_border'),_0x212ee5[_0x116acb(0x115)]();else{if(_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x13d)]==_0x116acb(0x133))$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':'16px','font-weight':_0x116acb(0x138)}),$('.main_notification-'+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x157)),$(_0x116acb(0x122)+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x12e)),_0x212ee5[_0x116acb(0x115)]();else{if(_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x13d)]=='ambulance')$(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':_0x116acb(0x138)}),$(_0x116acb(0x135)+_0x1cb2c5)[_0x116acb(0x118)]('ambulance_icon'),$(_0x116acb(0x122)+_0x1cb2c5)['addClass']('ambulance\x20ambulance_border'),_0x212ee5[_0x116acb(0x115)]();else _0x1a6c26['data'][_0x116acb(0x13d)]==_0x116acb(0x13f)&&($(_0x116acb(0x151)+_0x1cb2c5)[_0x116acb(0x123)](_0x1a6c26[_0x116acb(0x127)][_0x116acb(0x14f)])[_0x116acb(0x13b)]({'font-size':_0x116acb(0x129),'font-weight':_0x116acb(0x138)}),$(_0x116acb(0x135)+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x14e)),$(_0x116acb(0x122)+_0x1cb2c5)[_0x116acb(0x118)](_0x116acb(0x134)),_0x212ee5[_0x116acb(0x115)]());}}}}}}}}}anime({'targets':_0x116acb(0x122)+_0x1cb2c5,'translateX':-0x14,'direction':'alterante'}),setTimeout(function(){var _0x54359b=_0x116acb;anime({'targets':_0x54359b(0x122)+_0x1cb2c5,'translateX':0x15e,'duration':0x384}),setTimeout(function(){var _0x449e28=_0x54359b;$(_0x449e28(0x122)+_0x1cb2c5)[_0x449e28(0x137)]();},0x384);},_0x1a6c26['data']['time']);}});}));
-// Dont worry, its not a loader its obfuscated ;) //
+$(function () {
+    var sound = new Audio('sound.mp3');
+    sound.volume = 0.1;  
+    window.addEventListener('message', function (event) {
+        if (event.data.action == 'open') {
+            var number = Math.floor((Math.random() * 1000) + 1);
+            $('.toast').append(`
+            <div class="wrapper-${number}">
+                <div class="main_notification-${number}">
+                    <div class="title-${number}"></div>
+                    <div class="text-${number}">
+                        ${event.data.message}
+                    </div>
+                </div>
+            </div>`)
+            $(`.wrapper-${number}`).css({
+                "margin-bottom": "10px",            
+                "width": "285px",                   
+                "margin": "0 0 8px -170px",                   
+                "border-radius": "30px"             
+            })
+            $('.main_notification-'+number).addClass('main')
+            $('.text-'+number).css({
+                "font-size": "14px"      
+            })
+
+
+
+             //SUCCESS NOTIFICATION
+
+             if (event.data.type == 'success') {
+                $(`.title-${number}`).html(event.data.title).css({
+                    "font-size": "16px",     
+                    "font-weight": "600"
+                })
+                $(`.main_notification-${number}`).addClass('success_icon')
+                $(`.wrapper-${number}`).addClass('success success_border')
+                sound.play();
+
+
+
+             //NORMAL NOTIFICATION
+
+            } else if (event.data.type == 'normal') {
+                $(`.title-${number}`).html(event.data.title).css({
+                    "font-size": "16px",    
+                    "font-weight": "600"
+                })
+                $(`.main_notification-${number}`).addClass('normal_icon')
+                $(`.wrapper-${number}`).addClass('normal normal_border')
+                sound.play();
+
+
+
+             //WARNING NOTIFICATION
+
+            } else if (event.data.type == 'warning') {
+                $(`.title-${number}`).html(event.data.title).css({
+                    "font-size": "16px",     
+                    "font-weight": "600"
+                })
+                $(`.main_notification-${number}`).addClass('warning_icon')
+                $(`.wrapper-${number}`).addClass('warning warning_border')
+                sound.play();
+
+
+
+             //INFO NOTIFICATION
+
+            } else if (event.data.type == 'info') {
+                $(`.title-${number}`).html(event.data.title).css({
+                    "font-size": "16px",      
+                    "font-weight": "600"
+                })
+                $(`.main_notification-${number}`).addClass('info_icon')
+                $(`.wrapper-${number}`).addClass('info info_border')
+                sound.play();
+
+
+
+      
+            
+            } else if (event.data.type == 'police') {
+                $(`.title-${number}`).html(event.data.title).css({
+                    "font-size": "16px",     
+                    "font-weight": "600"
+                })
+                $(`.main_notification-${number}`).addClass('police_icon')
+                $(`.wrapper-${number}`).addClass('police police_border')
+                sound.play();
+
+
+
+ 
+            } else if (event.data.type == 'ambulance') {
+                $(`.title-${number}`).html(event.data.title).css({
+                    "font-size": "16px",      //Font size of title
+                    "font-weight": "600"
+                })
+                $(`.main_notification-${number}`).addClass('ambulance_icon')
+                $(`.wrapper-${number}`).addClass('ambulance ambulance_border')
+                sound.play();
+
+
+
+
+            } else if (event.data.type == 'error') {
+                $(`.title-${number}`).html(event.data.title).css({
+                    "font-size": "16px",      //Font size of title
+                    "font-weight": "600"
+                })
+                $(`.main_notification-${number}`).addClass('error_icon')
+                $(`.wrapper-${number}`).addClass('error error_border')
+                sound.play();
+
+
+
+
+            }
+            anime({
+                targets: `.wrapper-${number}`, 
+                translateX: -20,
+                direction: 'alterante',
+            })
+
+
+            setTimeout(function () {
+                anime({
+                    targets: `.wrapper-${number}`,
+                    translateX: 350,
+                    duration: 900
+            
+                      
+                })
+                setTimeout(function () {
+                    $(`.wrapper-${number}`).remove()
+                }, 900)
+            }, event.data.time)
+        }
+    })
+})
+
+
+
